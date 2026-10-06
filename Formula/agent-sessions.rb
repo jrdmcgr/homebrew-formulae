@@ -1,8 +1,8 @@
 class AgentSessions < Formula
   desc "List pi/Claude Code sessions with tokens, cost, and duration"
   homepage "https://github.com/jrdmcgr/agent-sessions"
-  url "https://github.com/jrdmcgr/agent-sessions/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "9ba5bab63ca8f71d6507d5eab097923836ba99af3733fd171c093b0d40a965a9"
+  url "https://github.com/jrdmcgr/agent-sessions/archive/refs/tags/v0.2.2.tar.gz"
+  sha256 "a0edd331c9ae0d6d738a45a4bfbd82337ae4ab7291d9e1882212dff8792f5f59"
   license "MIT"
 
   depends_on "go" => :build
